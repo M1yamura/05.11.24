@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int total_seconds;
-    cout << "Введите время в секундах: ";
+    cout << "Время(в секундах): ";
     cin >> total_seconds;
 
     int hours = total_seconds / 3600;
